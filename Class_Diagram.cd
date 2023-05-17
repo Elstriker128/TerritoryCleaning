@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TerritoryCleaning.Cost">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIQAAEAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TerritoryCleaning.Family">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAIAAAEAAAAAAAgAAAAAAAICAIAAAAAAAA=</HashCode>
+      <FileName>Family.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TerritoryCleaning.InOut">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAgAAgAAAAAAAABAAAAAAAAAAABgAAAEAAAAA=</HashCode>
+      <FileName>InOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TerritoryCleaning.TaskUtils">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TerritoryCleaning.UIForClient">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAgEAAgAEAAAECAABwAMgAQYBAAAAAAAAYCAgA=</HashCode>
+      <FileName>UIForClient.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,52 @@
+﻿body {
+    background-image: url('App_Themes/image.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: black;
+}
+
+div {
+    display: grid;
+    place-items: center;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+table {
+    margin: auto;
+    text-align: center;
+    overflow: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    color: black;
+}
+
+.textBox {
+    text-align: center;
+    align-items: center;
+    border-radius: 7%;
+    background-color: aquamarine;
+    border: 0.5px solid #ffffff;
+}
+
+.lab {
+    font-size: 20px;
+    font: bolder;
+}
+
+button {
+    background-color: aquamarine;
+    border-radius: 7%;
+    margin: 50px;
+    overflow: auto;
+}

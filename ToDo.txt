@@ -1,0 +1,7 @@
+﻿1. ToString - Done;
+2. Exceptions - Done;
+3. Two buttons - Done;
+4. UI - Done;
+5. Tests - Done;
+6. Comments - Done;
+7. Summary - Done;

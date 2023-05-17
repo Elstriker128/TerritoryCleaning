@@ -1,0 +1,5 @@
+Sycamore Street
+Wilson;1;0;1.5
+Smith;2;2;3.0
+Lopez;2;1;3.5
+Thompson;3;2;4.0

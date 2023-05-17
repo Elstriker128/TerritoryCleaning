@@ -1,0 +1,5 @@
+﻿Elm Street
+Smith;2;0;1.5
+Johnson;1;2;0.0
+Garcia;3;1;1.0
+Robinson;2;1;2.0

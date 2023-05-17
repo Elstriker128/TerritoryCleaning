@@ -1,0 +1,5 @@
+﻿Oak Avenue
+Hernandez;2;1;3.0
+Lee;1;2;2.5
+Nguyen;3;0;4.0
+Chen;2;2;3.5
